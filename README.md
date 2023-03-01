@@ -8,8 +8,6 @@ I develop user interfaces based on JavaScript libraries React and Redux, I like 
 
 * 🌍  I'm based in Bishkek
 * ✉️  You can contact me at [baatyrbeishenaliev@gmail.com](mailto:baatyrbeishenaliev@gmail.com)
-* 🧠  I'm learning React & Redux
-* 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/iambaatyr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iambaatyr?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
