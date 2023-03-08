@@ -6,13 +6,11 @@ Frontend Developer
 
 I develop user interfaces based on JavaScript libraries React and Redux, I like to create something of my own and see my result
 
-* 🌍  I'm based in Bishkek
-* ✉️  You can contact me at [baatyrbeishenaliev@gmail.com](mailto:baatyrbeishenaliev@gmail.com)
-
-<a href="https://www.github.com/iambaatyr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iambaatyr?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
-### Skills
-
+*   🌍  I'm based in Bishkek
+*   ✉️  You can contact me at [baatyrbeishenaliev@gmail.com](mailto:baatyrbeishenaliev@gmail.com)
+*   🧠  I'm learning React & Redux
+*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/BaatyrBeishenaliev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/BaatyrBeishenaliev?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,26 +28,22 @@ src="https://img.shields.io/github/followers/iambaatyr?logo=github&style=for-the
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/BatByGeek#0398" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/iambaatyr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iambaatyr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/baatyr-beishenaliev-2a1613261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21259992/baatyr-beishenaliev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/iambaatyr"><img src="https://github-readme-stats.vercel.app/api?username=iambaatyr&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="iambaatyr's GitHub stats" /></a>
-
-<a href="http://www.github.com/iambaatyr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iambaatyr&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/iambaatyr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iambaatyr&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/iambaatyr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambaatyr&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/iambaatyr/AimTraining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iambaatyr&repo=AimTraining&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/iambaatyr/To-Do-List" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iambaatyr&repo=To-Do-List&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/iambaatyr/Portfolio-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iambaatyr&repo=Portfolio-App&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/iambaatyr/Board-Games" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iambaatyr&repo=Board-Games&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/BatByGeek#0398" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/BaatyrBeishenaliev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/iambaatyr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/baatyr-beishenaliev-2a1613261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/21259992/baatyr-beishenaliev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/BaatyrBeishenaliev"><img src="https://github-readme-stats.vercel.app/api?username=BaatyrBeishenaliev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="BaatyrBeishenaliev's GitHub stats" /></a><a
+                      href="http://www.github.com/BaatyrBeishenaliev"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=BaatyrBeishenaliev&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/BaatyrBeishenaliev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BaatyrBeishenaliev&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/BaatyrBeishenaliev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaatyrBeishenaliev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/BaatyrBeishenaliev/AimTraining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BaatyrBeishenaliev&repo=AimTraining&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/BaatyrBeishenaliev/To-Do-List" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BaatyrBeishenaliev&repo=To-Do-List&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/BaatyrBeishenaliev/Portfolio-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BaatyrBeishenaliev&repo=Portfolio-App&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/BaatyrBeishenaliev/Board-Games" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BaatyrBeishenaliev&repo=Board-Games&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div>
